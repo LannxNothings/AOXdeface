@@ -1,3 +1,4 @@
-http://your-target1.com
-http://your-target2.com
-http://your-target2.com
+https://smpn10surabaya.sch.id/
+https://www.mfa.gov.il/
+https://info.goisrael.com/
+
